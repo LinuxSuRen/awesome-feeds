@@ -2,8 +2,8 @@
 
 There are many awesome blog authors here. And we could read those high-quality content by the feeds.
 
-
 {{- range $key, $val := .}}
+
 Kind: {{$key}}
 | GitHub | Feed | Introduction |
 |---|---|---|
@@ -11,3 +11,6 @@ Kind: {{$key}}
 | [{{$item.github}}](https://github.com/{{$item.github}}) | {{$item.feed}} | {{$item.introduction}} |
 {{- end}}
 {{end}}
+
+## Contribution
+Please add a YAML file in the directory [data](data) if you want to contribute a Feed.
