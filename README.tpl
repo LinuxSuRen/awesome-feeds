@@ -4,7 +4,8 @@ There are many awesome blog authors here. And we could read those high-quality c
 
 {{- range $key, $val := .}}
 
-Kind: {{$key}}
+## {{$key}}
+
 | GitHub | Feed | Introduction |
 |---|---|---|
 {{- range $item := $val}}
