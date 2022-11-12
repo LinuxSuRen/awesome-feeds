@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: linuxsuren/minimal@fix/google-analytics
 title: Awesome Feeds
 description: Find awesome feeds here!
 google_analytics: G-15BB5TSPM0
