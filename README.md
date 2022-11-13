@@ -24,11 +24,12 @@ There are many awesome blog authors here. And we could read those high-quality c
 | [wey-gu](https://github.com/wey-gu) | https://siwei.io/index.xml | 图数据库（例如：Nebula Graph） |
 
 
-## 开源
+## opensource
 
 | GitHub | Feed | Introduction |
 |---|---|---|
 | [korandoru](https://github.com/korandoru) | https://town.korandoru.io/blog/atom.xml | 开源小镇 |
+| [lijiangsheng1](https://github.com/lijiangsheng1) | https://opensourceway.community/index.xml | 开源之道 |
 | [tisonkun](https://github.com/tisonkun) | https://www.tisonkun.org/atom.xml | 夜天之书 |
 
 
