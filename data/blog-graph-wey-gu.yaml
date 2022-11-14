@@ -1,5 +1,5 @@
 github: wey-gu
-kind: Graph Database
+kind: Database
 introduction: 图数据库（例如：Nebula Graph）
 language: zh
 feed: https://siwei.io/index.xml
