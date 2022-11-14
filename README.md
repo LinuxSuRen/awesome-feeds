@@ -3,11 +3,18 @@
 
 There are many awesome blog authors here. And we could read those high-quality content by the feeds.
 
-## CICD
+## CI/CD
 
 | GitHub | Feed | Introduction |
 |---|---|---|
 | [jenkinsci](https://github.com/jenkinsci) | https://feeds.feedburner.com/ContinuousBlog/ | Jenkins Community |
+
+
+## Database
+
+| GitHub | Feed | Introduction |
+|---|---|---|
+| [wey-gu](https://github.com/wey-gu) | https://siwei.io/index.xml | 图数据库（例如：Nebula Graph） |
 
 
 ## Frontend
@@ -15,13 +22,6 @@ There are many awesome blog authors here. And we could read those high-quality c
 | GitHub | Feed | Introduction |
 |---|---|---|
 | [sxzz](https://github.com/sxzz) | https://blog.sxzz.moe/atom.xml | 前端技术 |
-
-
-## Graph Database
-
-| GitHub | Feed | Introduction |
-|---|---|---|
-| [wey-gu](https://github.com/wey-gu) | https://siwei.io/index.xml | 图数据库（例如：Nebula Graph） |
 
 
 ## opensource
