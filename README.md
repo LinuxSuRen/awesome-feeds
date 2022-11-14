@@ -24,6 +24,13 @@ There are many awesome blog authors here. And we could read those high-quality c
 | [sxzz](https://github.com/sxzz) | https://blog.sxzz.moe/atom.xml | 前端技术 |
 
 
+## Other
+
+| GitHub | Feed | Introduction |
+|---|---|---|
+| [tangshuang](https://github.com/tangshuang) | https://www.tangshuang.net/feed | 唐霜的博客 |
+
+
 ## opensource
 
 | GitHub | Feed | Introduction |
