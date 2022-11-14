@@ -20,7 +20,17 @@ jobs:
       - name: Generate RSS
         uses: opensource-f2f/open-podcasts@master
         with:
-          server: https://github.com/opensource-f2f/devops-talk/
+          output: index.rss
+          showFile: show.yaml
+          itemsPattern: item-*.yaml
+          server: "fake"
+      - name: Generate RSS for remote jobs
+        uses: opensource-f2f/open-podcasts@master
+        with:
+          output: podcasts/remote-jobs/index.rss
+          showFile: podcasts/remote-jobs/show.yaml
+          itemsPattern: podcasts/remote-jobs/item-*.yaml
+          server: "fake"
       - name: Update readme
         uses: linuxsuren/yaml-readme@v0.0.13
         env:
