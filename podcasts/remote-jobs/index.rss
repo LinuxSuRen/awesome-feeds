@@ -6,8 +6,8 @@
     <description>远程工作</description>
     <category>Technology</category>
     <generator>Open Podcast (https://github.com/opensource-f2f/open-podcasts)</generator>
-    <lastBuildDate>Mon, 14 Nov 2022 09:51:43 +0000</lastBuildDate>
-    <pubDate>Mon, 14 Nov 2022 09:51:43 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Nov 2022 10:04:44 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Nov 2022 10:04:44 +0000</pubDate>
     <image>
       <url>https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg</url>
       <title>cover</title>
@@ -20,8 +20,38 @@
       <link>https://jt.ximalaya.com//GKwRIaIF9zidACAAAAEix6h6.mp3.m4a?channel=rss&amp;album_id=53320813&amp;track_id=506240866&amp;uid=107862567&amp;jt=https://audio.xmcdn.com/storages/bf17-audiofreehighqps/0F/A8/GKwRIaIF9zidACAAAAEix6h6.mp3</link>
       <description>S02E02 走进全员 Remote 公司 StreamNative，共建开源乐园</description>
       <comments>notes</comments>
-      <pubDate>Mon, 14 Nov 2022 09:51:43 +0000</pubDate>
+      <pubDate>Mon, 14 Nov 2022 10:04:44 +0000</pubDate>
       <enclosure url="https://jt.ximalaya.com//GKwRIaIF9zidACAAAAEix6h6.mp3.m4a?channel=rss&amp;album_id=53320813&amp;track_id=506240866&amp;uid=107862567&amp;jt=https://audio.xmcdn.com/storages/bf17-audiofreehighqps/0F/A8/GKwRIaIF9zidACAAAAEix6h6.mp3" length="0" type="audio/x-m4a"></enclosure>
+      <itunes:image href="https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://media.xyzcdn.net/lqtFZExXjedLBFnGu9sE1VkSAByH.m4a</guid>
+      <title>S2E4 和吴晟聊开源和 Remote 是不是程序员的自由之路</title>
+      <link>https://media.xyzcdn.net/lqtFZExXjedLBFnGu9sE1VkSAByH.m4a</link>
+      <description>S2E4 和吴晟聊开源和 Remote 是不是程序员的自由之路</description>
+      <comments>notes</comments>
+      <pubDate>Mon, 14 Nov 2022 10:04:44 +0000</pubDate>
+      <enclosure url="https://media.xyzcdn.net/lqtFZExXjedLBFnGu9sE1VkSAByH.m4a" length="0" type="audio/x-m4a"></enclosure>
+      <itunes:image href="https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://jt.ximalaya.com//CKwRIJIFPMO8ABAAAADsXn6U.mp3.m4a?channel=rss&amp;album_id=52069269&amp;track_id=462104090&amp;uid=343307074&amp;jt=https://audio.xmcdn.com/storages/b0fc-audiofreehighqps/A3/00/CKwRIJIFPMO8ABAAAADsXn6U.mp3</guid>
+      <title>全员Remote的公司是什么样的？【DevmoreWork#3】</title>
+      <link>https://jt.ximalaya.com//CKwRIJIFPMO8ABAAAADsXn6U.mp3.m4a?channel=rss&amp;album_id=52069269&amp;track_id=462104090&amp;uid=343307074&amp;jt=https://audio.xmcdn.com/storages/b0fc-audiofreehighqps/A3/00/CKwRIJIFPMO8ABAAAADsXn6U.mp3</link>
+      <description>全员Remote的公司是什么样的？【DevmoreWork#3】</description>
+      <comments>notes</comments>
+      <pubDate>Mon, 14 Nov 2022 10:04:44 +0000</pubDate>
+      <enclosure url="https://jt.ximalaya.com//CKwRIJIFPMO8ABAAAADsXn6U.mp3.m4a?channel=rss&amp;album_id=52069269&amp;track_id=462104090&amp;uid=343307074&amp;jt=https://audio.xmcdn.com/storages/b0fc-audiofreehighqps/A3/00/CKwRIJIFPMO8ABAAAADsXn6U.mp3" length="0" type="audio/x-m4a"></enclosure>
+      <itunes:image href="https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg"></itunes:image>
+    </item>
+    <item>
+      <guid>https://jt.ximalaya.com//CKwRIaIFVvXhABAAAADzCkXI.mp3.m4a?channel=rss&amp;album_id=52069269&amp;track_id=464122465&amp;uid=343307074&amp;jt=https://audio.xmcdn.com/storages/82f4-audiofreehighqps/64/02/CKwRIaIFVvXhABAAAADzCkXI.mp3</guid>
+      <title>大厂离职我选择了Remote【DevmoreWork#4</title>
+      <link>https://jt.ximalaya.com//CKwRIaIFVvXhABAAAADzCkXI.mp3.m4a?channel=rss&amp;album_id=52069269&amp;track_id=464122465&amp;uid=343307074&amp;jt=https://audio.xmcdn.com/storages/82f4-audiofreehighqps/64/02/CKwRIaIFVvXhABAAAADzCkXI.mp3</link>
+      <description>大厂离职我选择了Remote【DevmoreWork#4</description>
+      <comments>notes</comments>
+      <pubDate>Mon, 14 Nov 2022 10:04:44 +0000</pubDate>
+      <enclosure url="https://jt.ximalaya.com//CKwRIaIFVvXhABAAAADzCkXI.mp3.m4a?channel=rss&amp;album_id=52069269&amp;track_id=464122465&amp;uid=343307074&amp;jt=https://audio.xmcdn.com/storages/82f4-audiofreehighqps/64/02/CKwRIaIFVvXhABAAAADzCkXI.mp3" length="0" type="audio/x-m4a"></enclosure>
       <itunes:image href="https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg"></itunes:image>
     </item>
   </channel>
