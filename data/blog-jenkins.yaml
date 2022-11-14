@@ -1,5 +1,5 @@
 github: jenkinsci
-kind: CICD
+kind: CI/CD
 introduction: Jenkins Community
 language: en
 feed: https://feeds.feedburner.com/ContinuousBlog/
