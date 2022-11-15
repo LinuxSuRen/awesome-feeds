@@ -1,5 +1,7 @@
 #!yaml-readme -p data/*.yaml --output README.md --group-by kind
 
+![generator](https://github.com/LinuxSuRen/awesome-feeds/actions/workflows/generator.yaml/badge.svg)
+
 There are many awesome blogs or [Podcasts](podcasts.md) here. And we could read those high-quality content by the feeds.
 
 {{- range $key, $val := .}}
