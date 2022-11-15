@@ -3,11 +3,41 @@
 
 There are many awesome blogs or [Podcasts](podcasts.md) here. And we could read those high-quality content by the feeds.
 
+## CI/CD
+
+| GitHub | Feed | Introduction |
+|---|---|---|
+| [jenkinsci](https://github.com/jenkinsci) | https://feeds.feedburner.com/ContinuousBlog/ | Jenkins Community |
+
+
+## Database
+
+| GitHub | Feed | Introduction |
+|---|---|---|
+| [wey-gu](https://github.com/wey-gu) | https://siwei.io/index.xml | 图数据库（例如：Nebula Graph） |
+
+
+## Frontend
+
+| GitHub | Feed | Introduction |
+|---|---|---|
+| [sxzz](https://github.com/sxzz) | https://blog.sxzz.moe/atom.xml | 前端技术 |
+
+
+## Other
+
+| GitHub | Feed | Introduction |
+|---|---|---|
+| [tangshuang](https://github.com/tangshuang) | https://www.tangshuang.net/feed | 唐霜的博客 |
+
+
 ## opensource
 
 | GitHub | Feed | Introduction |
 |---|---|---|
 | [korandoru](https://github.com/korandoru) | https://town.korandoru.io/blog/atom.xml | 开源小镇 |
+| [lijiangsheng1](https://github.com/lijiangsheng1) | https://opensourceway.community/index.xml | 开源之道 |
+| [tisonkun](https://github.com/tisonkun) | https://www.tisonkun.org/atom.xml | 夜天之书 |
 
 
 ## Contribution
