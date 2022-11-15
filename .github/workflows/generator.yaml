@@ -38,6 +38,13 @@ jobs:
           showFile: podcasts/podcasts-guide/show.yaml
           itemsPattern: podcasts/podcasts-guide/item-*.yaml
           server: "fake"
+      - name: Generate RSS for Open Source Community
+        uses: opensource-f2f/open-podcasts@master
+        with:
+          output: podcasts/os-community/index.rss
+          showFile: podcasts/os-community/show.yaml
+          itemsPattern: podcasts/os-community/item-*.yaml
+          server: "fake"
       - name: Update readme
         uses: linuxsuren/yaml-readme@v0.0.13
         env:
