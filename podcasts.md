@@ -7,3 +7,46 @@
 | 开源社区运营之路 | [![RSS](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://linuxsuren.github.io/awesome-feeds/podcasts/os-community/index.rss) | 聊聊有关开源社区运营的一些事情 |
 | 如何制作一档播客 | [![RSS](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://linuxsuren.github.io/awesome-feeds/podcasts/podcasts-guide/index.rss) | 收集如何制作播客的合集 awesome-feeds |
 | 远程工作 | [![RSS](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/index.rss) | 远程工作 |
+
+## Contribution
+You could contribute an episode of an existing collection. 
+Or, you could create a new collection as well.
+
+### Add new episode
+Find the target directory under [podcasts](podcasts). Then add a YAML file in it. 
+Below is a sample YAML file:
+
+```yaml
+title: The episode title
+index: 1
+description: The episode description
+filename: "The URL of target audio file"
+localStorage: url # keep this be same
+```
+
+### Create new collection
+You need to add more files if you want to create a new collection.
+
+First, please create a new directory under [podcasts](podcasts).
+
+then, add a YAML file named `show.yaml`:
+```yaml
+title: The podcasts title
+description: The podcasts description
+image: "The logo of this podcasts"
+link: https://linuxsuren.github.io/awesome-feeds
+categories:
+- Technology
+localStorage: url
+```
+
+Finally, please add the following action into [generator.yaml](.github/workflows/generator.yaml) to generate RSS file automatically.
+```yaml
+      - name: Generate RSS for remote jobs
+        uses: opensource-f2f/open-podcasts@master
+        with:
+          output: podcasts/remote-jobs/index.rss
+          showFile: podcasts/remote-jobs/show.yaml
+          itemsPattern: podcasts/remote-jobs/item-*.yaml
+          server: "fake"
+```
