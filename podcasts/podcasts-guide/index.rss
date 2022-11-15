@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>如何制作一档播客</title>
+    <link>https://linuxsuren.github.io/awesome-feeds/</link>
+    <description>收集如何制作播客的合集 awesome-feeds</description>
+    <category>Technology</category>
+    <generator>Open Podcast (https://github.com/opensource-f2f/open-podcasts)</generator>
+    <lastBuildDate>Tue, 15 Nov 2022 03:06:30 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2022 03:06:30 +0000</pubDate>
+    <image>
+      <url>https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg</url>
+      <title>cover</title>
+      <link>https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg</link>
+    </image>
+    <itunes:category text="Technology"></itunes:category>
+    <item>
+      <guid>https://media.fireside.fm/file/fireside-audio/podcasts/audio/2/2497a8ee-4f3d-49db-8121-7a474a2784d7/episodes/3/3f05e6d4-e401-4d64-87fc-9c6a2d26b340/3f05e6d4-e401-4d64-87fc-9c6a2d26b340.mp3</guid>
+      <title>E050. 如何获得一万订阅 | 我们的播客📻制作方法</title>
+      <link>https://media.fireside.fm/file/fireside-audio/podcasts/audio/2/2497a8ee-4f3d-49db-8121-7a474a2784d7/episodes/3/3f05e6d4-e401-4d64-87fc-9c6a2d26b340/3f05e6d4-e401-4d64-87fc-9c6a2d26b340.mp3</link>
+      <description>E050. 如何获得一万订阅 | 我们的播客📻制作方法</description>
+      <comments>notes</comments>
+      <pubDate>Tue, 15 Nov 2022 03:06:30 +0000</pubDate>
+      <enclosure url="https://media.fireside.fm/file/fireside-audio/podcasts/audio/2/2497a8ee-4f3d-49db-8121-7a474a2784d7/episodes/3/3f05e6d4-e401-4d64-87fc-9c6a2d26b340/3f05e6d4-e401-4d64-87fc-9c6a2d26b340.mp3" length="0" type="audio/x-m4a"></enclosure>
+      <itunes:image href="https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/remote-jobs-logo.jpeg"></itunes:image>
+    </item>
+  </channel>
+</rss>
