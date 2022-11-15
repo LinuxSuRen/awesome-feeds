@@ -31,6 +31,13 @@ jobs:
           showFile: podcasts/remote-jobs/show.yaml
           itemsPattern: podcasts/remote-jobs/item-*.yaml
           server: "fake"
+      - name: Generate RSS for Podcasts guide
+        uses: opensource-f2f/open-podcasts@master
+        with:
+          output: podcasts/podcasts-guide/index.rss
+          showFile: podcasts/podcasts-guide/show.yaml
+          itemsPattern: podcasts/podcasts-guide/item-*.yaml
+          server: "fake"
       - name: Update readme
         uses: linuxsuren/yaml-readme@v0.0.13
         env:
