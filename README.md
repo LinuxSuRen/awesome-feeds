@@ -42,5 +42,12 @@ There are many awesome blogs or [Podcasts](podcasts.md) here. And we could read 
 | [tisonkun](https://github.com/tisonkun) | https://www.tisonkun.org/atom.xml | 夜天之书 |
 
 
+## other
+
+| GitHub | Feed | Introduction |
+|---|---|---|
+| [Xuanwo](https://github.com/Xuanwo) | https://xuanwo.io/index.xml | 自动化, 分布式系统, 存储 |
+
+
 ## Contribution
 Please add a YAML file in the directory [data](data) if you want to contribute a Feed.
