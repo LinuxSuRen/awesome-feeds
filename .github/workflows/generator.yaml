@@ -17,12 +17,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3.1.0
-      - name: Generate RSS
+      - name: Generate RSS for Data Privacy
         uses: opensource-f2f/open-podcasts@master
         with:
-          output: index.rss
-          showFile: show.yaml
-          itemsPattern: item-*.yaml
+          output: podcasts/data-privacy/index.rss
+          showFile: podcasts/data-privacy/show.yaml
+          itemsPattern: podcasts/rdata-privacy/item-*.yaml
           server: "fake"
       - name: Generate RSS for remote jobs
         uses: opensource-f2f/open-podcasts@master

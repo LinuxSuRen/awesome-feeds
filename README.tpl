@@ -1,6 +1,6 @@
 #!yaml-readme -p data/*.yaml --output README.md --group-by kind
 
-There are many awesome blog authors here. And we could read those high-quality content by the feeds.
+There are many awesome blogs or [Podcasts](podcasts.md) here. And we could read those high-quality content by the feeds.
 
 {{- range $key, $val := .}}
 
