@@ -22,7 +22,7 @@ jobs:
         with:
           output: podcasts/data-privacy/index.rss
           showFile: podcasts/data-privacy/show.yaml
-          itemsPattern: podcasts/rdata-privacy/item-*.yaml
+          itemsPattern: podcasts/data-privacy/item-*.yaml
           server: "fake"
       - name: Generate RSS for remote jobs
         uses: opensource-f2f/open-podcasts@master
@@ -31,6 +31,18 @@ jobs:
           showFile: podcasts/remote-jobs/show.yaml
           itemsPattern: podcasts/remote-jobs/item-*.yaml
           server: "fake"
+      - name: Update readme
+        uses: linuxsuren/yaml-readme@v0.0.13
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          pattern: 'podcasts/*/show.yaml'
+          output: podcasts.md
+          template: podcasts.tpl
+          username: linuxsuren
+          org: linuxsuren
+          repo: awesome-feeds
+          push: false
       - name: Update readme
         uses: linuxsuren/yaml-readme@v0.0.13
         env:
