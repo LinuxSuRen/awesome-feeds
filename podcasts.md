@@ -4,6 +4,9 @@
 | Name | RSS | Description |
 |---|---|---|
 | [隐私计算](podcasts/data-privacy/README.md) | [![RSS](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://linuxsuren.github.io/awesome-feeds/podcasts/data-privacy/index.rss) | 隐私计算 |
+| [开源社区运营之路](podcasts/os-community/README.md) | [![RSS](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://linuxsuren.github.io/awesome-feeds/podcasts/os-community/index.rss) | 聊聊有关开源社区运营的一些事情 |
+| [如何制作一档播客](podcasts/podcasts-guide/README.md) | [![RSS](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://linuxsuren.github.io/awesome-feeds/podcasts/podcasts-guide/index.rss) | 收集如何制作播客的合集 awesome-feeds |
+| [远程工作](podcasts/remote-jobs/README.md) | [![RSS](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](https://linuxsuren.github.io/awesome-feeds/podcasts/remote-jobs/index.rss) | 远程工作 |
 
 ## Contribution
 You could contribute an episode of an existing collection. 
